@@ -2,7 +2,7 @@
 *.DS_Store
 *.idea
 *.pyc
-
+*.csv
 *.xls
 *.xlsx
 *checkpoint.ipynb
